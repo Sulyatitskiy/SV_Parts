@@ -1,0 +1,15 @@
+C:\Users\SVM_Vitaliy\Desktop\SV_Parts\SV_Parts\SV_Parts\bin\Debug\netcoreapp3.1\SV_Parts.exe
+C:\Users\SVM_Vitaliy\Desktop\SV_Parts\SV_Parts\SV_Parts\bin\Debug\netcoreapp3.1\SV_Parts.deps.json
+C:\Users\SVM_Vitaliy\Desktop\SV_Parts\SV_Parts\SV_Parts\bin\Debug\netcoreapp3.1\SV_Parts.runtimeconfig.json
+C:\Users\SVM_Vitaliy\Desktop\SV_Parts\SV_Parts\SV_Parts\bin\Debug\netcoreapp3.1\SV_Parts.runtimeconfig.dev.json
+C:\Users\SVM_Vitaliy\Desktop\SV_Parts\SV_Parts\SV_Parts\bin\Debug\netcoreapp3.1\SV_Parts.dll
+C:\Users\SVM_Vitaliy\Desktop\SV_Parts\SV_Parts\SV_Parts\bin\Debug\netcoreapp3.1\SV_Parts.pdb
+C:\Users\SVM_Vitaliy\Desktop\SV_Parts\SV_Parts\SV_Parts\obj\Debug\netcoreapp3.1\SV_Parts.csproj.AssemblyReference.cache
+C:\Users\SVM_Vitaliy\Desktop\SV_Parts\SV_Parts\SV_Parts\obj\Debug\netcoreapp3.1\SV_Parts.Form1.resources
+C:\Users\SVM_Vitaliy\Desktop\SV_Parts\SV_Parts\SV_Parts\obj\Debug\netcoreapp3.1\SV_Parts.csproj.GenerateResource.cache
+C:\Users\SVM_Vitaliy\Desktop\SV_Parts\SV_Parts\SV_Parts\obj\Debug\netcoreapp3.1\SV_Parts.AssemblyInfoInputs.cache
+C:\Users\SVM_Vitaliy\Desktop\SV_Parts\SV_Parts\SV_Parts\obj\Debug\netcoreapp3.1\SV_Parts.AssemblyInfo.cs
+C:\Users\SVM_Vitaliy\Desktop\SV_Parts\SV_Parts\SV_Parts\obj\Debug\netcoreapp3.1\SV_Parts.csproj.CoreCompileInputs.cache
+C:\Users\SVM_Vitaliy\Desktop\SV_Parts\SV_Parts\SV_Parts\obj\Debug\netcoreapp3.1\SV_Parts.dll
+C:\Users\SVM_Vitaliy\Desktop\SV_Parts\SV_Parts\SV_Parts\obj\Debug\netcoreapp3.1\SV_Parts.pdb
+C:\Users\SVM_Vitaliy\Desktop\SV_Parts\SV_Parts\SV_Parts\obj\Debug\netcoreapp3.1\SV_Parts.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SVM_Vitaliy\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SVM_Vitaliy\\.nuget\\packages"
+    ]
+  }
+}
